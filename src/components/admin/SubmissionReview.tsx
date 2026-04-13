@@ -592,15 +592,13 @@ export const SubmissionReview: React.FC<SubmissionReviewProps> = ({ quiz: initia
                           <Play className="w-5 h-5 text-emerald-500" />
                         </div>
                         <div>
-                          <h4 className="text-lg font-black text-slate-800 tracking-tight">Video Evidence Grid</h4>
+                          <h4 className="text-lg font-black text-slate-800 tracking-tight">Video Evidence</h4>
                           <p className="text-[10px] font-mono text-slate-400 uppercase tracking-widest font-bold">
                             {evidenceLogs.filter(l => l.evidence_type === 'VIDEO').length} snippets captured
                           </p>
                         </div>
                       </div>
-                      <div className="badge badge-rose py-2 px-4 text-[10px] font-black uppercase tracking-widest">
-                        Video-Only Mode Active
-                      </div>
+                     
                     </div>
 
                     {/* Evidence Grid */}
