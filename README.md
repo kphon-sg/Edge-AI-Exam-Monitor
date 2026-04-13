@@ -27,4 +27,3 @@ Dự án bao gồm:
 - **Theo dõi hướng nhìn**: Cảnh báo nếu nhìn ra ngoài màn hình quá lâu.
 - **Giám sát hệ thống**: Cảnh báo nếu chuyển tab trình duyệt hoặc thu nhỏ cửa sổ thi.
 - **Chỉ số Edge AI**: Biểu đồ mô phỏng hiệu năng xử lý tại máy khách.
-"# veristas_exam" 
